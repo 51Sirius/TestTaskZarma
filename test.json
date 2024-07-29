@@ -1,0 +1,17 @@
+[
+  {
+    "sale_id": 1,
+    "product_id": 1,
+    "amount": 10
+  },
+  {
+    "sale_id": 2,
+    "product_id": 2,
+    "amount": 20
+  },
+  {
+    "sale_id": 3,
+    "product_id": 1,
+    "amount": 30
+  }
+]
